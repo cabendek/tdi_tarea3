@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tdi_tarea3/static/css/main.69b21db8.chunk.css",
+    "main.js": "/tdi_tarea3/static/js/main.59e94b3e.chunk.js",
+    "main.js.map": "/tdi_tarea3/static/js/main.59e94b3e.chunk.js.map",
+    "runtime-main.js": "/tdi_tarea3/static/js/runtime-main.90b6d3a0.js",
+    "runtime-main.js.map": "/tdi_tarea3/static/js/runtime-main.90b6d3a0.js.map",
+    "static/css/2.36b72570.chunk.css": "/tdi_tarea3/static/css/2.36b72570.chunk.css",
+    "static/js/2.e69fd042.chunk.js": "/tdi_tarea3/static/js/2.e69fd042.chunk.js",
+    "static/js/2.e69fd042.chunk.js.map": "/tdi_tarea3/static/js/2.e69fd042.chunk.js.map",
+    "index.html": "/tdi_tarea3/index.html",
+    "precache-manifest.c941b3864f9f3f44bb449213e28da5a9.js": "/tdi_tarea3/precache-manifest.c941b3864f9f3f44bb449213e28da5a9.js",
+    "service-worker.js": "/tdi_tarea3/service-worker.js",
+    "static/css/2.36b72570.chunk.css.map": "/tdi_tarea3/static/css/2.36b72570.chunk.css.map",
+    "static/css/main.69b21db8.chunk.css.map": "/tdi_tarea3/static/css/main.69b21db8.chunk.css.map",
+    "static/js/2.e69fd042.chunk.js.LICENSE": "/tdi_tarea3/static/js/2.e69fd042.chunk.js.LICENSE",
+    "static/media/paper-plane2.svg": "/tdi_tarea3/static/media/paper-plane2.d8a5c98e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b6d3a0.js",
+    "static/css/2.36b72570.chunk.css",
+    "static/js/2.e69fd042.chunk.js",
+    "static/css/main.69b21db8.chunk.css",
+    "static/js/main.59e94b3e.chunk.js"
+  ]
+}
