@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "664ae909a076630074efe43a4c24c706",
+    "revision": "5a9778856c9a3f15e7127392bc2d8c8d",
     "url": "/tdi_tarea3/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tdi_tarea3/static/css/2.36b72570.chunk.css"
   },
   {
-    "revision": "95093a9fa08b185a3900",
+    "revision": "b228093ef19d0fa760c8",
     "url": "/tdi_tarea3/static/css/main.69b21db8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tdi_tarea3/static/js/2.e69fd042.chunk.js.LICENSE"
   },
   {
-    "revision": "95093a9fa08b185a3900",
-    "url": "/tdi_tarea3/static/js/main.59e94b3e.chunk.js"
+    "revision": "b228093ef19d0fa760c8",
+    "url": "/tdi_tarea3/static/js/main.717d8c50.chunk.js"
   },
   {
     "revision": "e800ff3094bfa6ee5475",
