@@ -1,0 +1,72 @@
+
+.scrolling-wrapper{
+	overflow-x: auto;
+}
+
+.card-block{
+	height: 30vh;
+	background-color: #fff;
+	border: none;
+	background-position: center;
+	background-size: cover;
+	transition: all 0.2s ease-in-out !important;
+	border-radius: 24px;
+	
+}
+
+.card-1{
+	background-color: #caf0ff;
+}
+
+.leaflet-container {
+  width:61vw;
+  height: 55vh;
+  position:absolute;
+  top: 2vh;
+  left: 2vw;
+  border-radius: 8px;
+  
+}
+.chat {
+  width: 34vw;
+  height: 96vh;
+  background-color: rgba(53, 53, 53,0.15);
+  padding: 10px;
+  position: absolute;
+  right: 2vw;
+  bottom: 0vh;
+  top: 2vh;
+  border-radius: 8px;
+        
+}
+
+.messages {
+  overflow: scroll;
+  width: auto;
+  height: 73.5vh;
+}
+
+.information {
+  width: 61vw;
+  height: 39vh;
+  position: absolute;
+  left: 2vw;
+  bottom: 2vh;
+  background-color: rgba(53, 53, 53,0.15);
+  border-radius: 8px;
+
+}
+
+.title {
+  text-align: center;
+  width: 100%;
+  padding: 2%;
+  background-color: rgb(0, 199, 238);
+  color: #ffffff;
+}
+
+.bottom {
+  position:absolute;
+  width: 95%;
+  bottom: 1vh;
+}
